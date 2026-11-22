@@ -1,3 +1,6 @@
-function changecolor(obj) {
-    obj.style.color = "turquoise";
-}
+const firstnumber = 5
+const secondnumber = 10
+
+const multiply= firstnumber * secondnumber
+
+consle.log(multiply)
